@@ -1,0 +1,4 @@
+Prediksi Jantung
+
+requirements:
+pandas, streamlit, joblib, sklearn
